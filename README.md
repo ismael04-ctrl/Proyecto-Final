@@ -1,7 +1,8 @@
-# Rutastick · Aplicación de consola (versión básica)
+# Rutastick · Aplicación de consola (versión básica en desarrollo por ahora y )
 
 Proyecto Intermodular 1. Gestión de rutas de camiones para el reparto de
 mercancías a tiendas y almacenes, con cálculo del kilometraje a facturar.
+
 
 ## Requisitos
 
