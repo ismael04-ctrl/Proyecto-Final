@@ -11,12 +11,12 @@ mercancías a tiendas y almacenes, con cálculo del kilometraje a facturar.
 
 ## Cómo ejecutarla
 
-```
-python3 main.py
-```
 
-Al arrancar, crea automáticamente el archivo `rutastick.db` con todas las
-tablas (ver `schema.sql`). La primera vez hay que crear un usuario
+python3 main.py
+
+
+Al arrancar, crea automáticamente el archivo `rutas.db` con todas las
+tablas. La primera vez hay que crear un usuario
 (opción 2 del menú inicial) antes de poder iniciar sesión.
 
 ## Funcionalidades incluidas
@@ -35,7 +35,7 @@ tablas (ver `schema.sql`). La primera vez hay que crear un usuario
   incidencia), con historial de cambios.
 - Informe de kilometraje: total a pagar por las rutas ya entregadas.
 
-## Estructura del proyecto
+## Estructura del proyecto(basica para un principio)
 
 ```
 rutastick_app/
